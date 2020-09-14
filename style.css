@@ -53,6 +53,10 @@ h1{
 #about{
     background-color: #272424;
     color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 #last-one{
     font-size: 18px;
