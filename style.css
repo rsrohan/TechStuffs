@@ -8,6 +8,7 @@ body{
     font-family: 'Rakkas', cursive;
     font-size: large;
     text-align: center;
+    color: darkslategrey;
 }
 h1{
     text-align: center;
@@ -73,6 +74,15 @@ h1{
 	display: grid;
 	grid-template-columns: repeat(5, 1fr);
 	grid-gap: 5px;
+	text-align: center;
+}
+.photoo .photos .points {
+	display: list-item;
+    grid-gap: 5px;
+    font-family: cursive;
+    font-size: 14px;
+    color: darkslategrey;
+    font-style: italic;
 	text-align: center;
 }
 .photoo{
